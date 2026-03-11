@@ -15,9 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Z3cht-Z3kt&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Z3cht-Z3kt&icon=9&color=13)](https://visitcount.itsvg.in)
 
